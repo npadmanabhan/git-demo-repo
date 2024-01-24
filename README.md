@@ -6,3 +6,6 @@ This is awesome.
 
 ## Subheader 2
 This is awesome as well.
+
+## Subheader 3
+I have setup SSH for my pushes to GitHub
