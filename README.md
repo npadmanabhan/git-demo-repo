@@ -14,4 +14,4 @@ I have setup SSH for my pushes to GitHub
 I am becoming a GitHub Pro!!
 
 ## Subheader 5
-I am becoming a GitHub Pro!! No kidding!!
+I am becoming a GitHub Pro!! No kidding and I am having a lot of fun doing this.
