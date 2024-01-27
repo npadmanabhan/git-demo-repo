@@ -18,3 +18,6 @@ I am becoming a GitHub Pro!! No kidding and I am having a lot of fun doing this.
 
 ## Local Development
     1. Open index.html in your browser.
+
+## Undo Changes in git
+1. This is a very important super power to possess
